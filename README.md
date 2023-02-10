@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
  - Run for webcam
  
-`python3 Objectron.py`
+`streamlit run  FaceOrienter.py`
 
 
 <p align="center">
